@@ -1,2 +1,2 @@
-# 01_ANALISIS_08_Diagramas_especificaci-n_analisis_requisitos
+# 01_ANALISIS_08_Diagramas_especificación_analisis_requisitos
 Material de apoyo
